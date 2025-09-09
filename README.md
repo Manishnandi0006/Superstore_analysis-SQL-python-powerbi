@@ -98,7 +98,7 @@ The dataset used in this project is publicly available:
 
 ## 📊 Dashboard Preview
 
-![Dashboard image](ss_images\dashboard.png)
+![Dashboard image](ss_images/dashboard.png)
 
 ---
 
